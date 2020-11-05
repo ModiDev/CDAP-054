@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 942eb48b7ad3e3d4793841a891ab22f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1345905325429513124
+    second: recover_0
+  - first:
+      213: -3316270265626614221
+    second: recover_1
+  - first:
+      213: -1198808612262077299
+    second: recover_2
+  - first:
+      213: -2388093098307276289
+    second: recover_3
+  - first:
+      213: 6861749872963436374
+    second: recover_4
+  - first:
+      213: -6653446409559541400
+    second: recover_5
+  - first:
+      213: -8836560574604690181
+    second: recover_6
+  - first:
+      213: 8125994170966199679
+    second: recover_7
+  - first:
+      213: 4261253945724613066
+    second: recover_8
+  - first:
+      213: 3808305977594027826
+    second: recover_9
+  - first:
+      213: 8219262667610410962
+    second: recover_10
+  - first:
+      213: -2949172588721977381
+    second: recover_11
+  - first:
+      213: 3607330869959999490
+    second: recover_12
+  - first:
+      213: -3644212047188249315
+    second: recover_13
+  - first:
+      213: -7955610390140390930
+    second: recover_14
+  - first:
+      213: -8351458154366943713
+    second: recover_15
+  - first:
+      213: -6173584294777837685
+    second: recover_16
+  - first:
+      213: 9075858120363745874
+    second: recover_17
+  - first:
+      213: 5390448812021369434
+    second: recover_18
+  - first:
+      213: -13747493703290106
+    second: recover_19
+  - first:
+      213: 808446780512420887
+    second: recover_20
+  - first:
+      213: 2297828278540035622
+    second: recover_21
+  - first:
+      213: 6081510834932545908
+    second: recover_22
+  - first:
+      213: -5276003391413204574
+    second: recover_23
+  - first:
+      213: 8027416331022274662
+    second: recover_24
+  - first:
+      213: -1182856322451153621
+    second: recover_25
+  - first:
+      213: -7515910062395938312
+    second: recover_26
+  - first:
+      213: 7350256230771479109
+    second: recover_27
+  - first:
+      213: 5833788906030358558
+    second: recover_28
+  - first:
+      213: 6219895801555829320
+    second: recover_29
+  - first:
+      213: 4477216032838003745
+    second: recover_30
+  - first:
+      213: 7690322883414599637
+    second: recover_31
+  - first:
+      213: 2210657411546917974
+    second: recover_32
+  - first:
+      213: -8364147767643183123
+    second: recover_33
+  - first:
+      213: 9158098159953954690
+    second: recover_34
+  - first:
+      213: -879209223104522431
+    second: recover_35
+  - first:
+      213: 1955008709550886299
+    second: recover_36
+  - first:
+      213: 7550161651438907089
+    second: recover_37
+  - first:
+      213: -4748593547627889242
+    second: recover_38
+  - first:
+      213: -2758017117199172304
+    second: recover_39
+  - first:
+      213: -6377605065733994820
+    second: recover_40
+  - first:
+      213: 2277905577106108064
+    second: recover_41
+  - first:
+      213: 6036750968956970970
+    second: recover_42
+  - first:
+      213: -2313672352226926941
+    second: recover_43
+  - first:
+      213: 3347205806260901331
+    second: recover_44
+  - first:
+      213: 6821709875902285851
+    second: recover_45
+  - first:
+      213: -6831773963436115076
+    second: recover_46
+  - first:
+      213: 2320511496116928696
+    second: recover_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: recover_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54a778cc32625de0800000000000000
+      internalID: -1345905325429513124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 752
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336a22683cd3af1d0800000000000000
+      internalID: -3316270265626614221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 752
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c90703be9fc5fe0800000000000000
+      internalID: -1198808612262077299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 752
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff135d0daf9cbded0800000000000000
+      internalID: -2388093098307276289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 752
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f31938725d93f50800000000000000
+      internalID: 6861749872963436374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869fa12fdb53aa3a0800000000000000
+      internalID: -6653446409559541400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 522
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc377ab9fa3e5580800000000000000
+      internalID: -8836560574604690181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 522
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc55725a455c070800000000000000
+      internalID: 8125994170966199679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_8
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 522
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1b5a4f2e3032b30800000000000000
+      internalID: 4261253945724613066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_9
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 522
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f1d7efb12d9d430800000000000000
+      internalID: 3808305977594027826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df4c8249dfa01270800000000000000
+      internalID: 8219262667610410962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 292
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd748ebe72f6217d0800000000000000
+      internalID: -2949172588721977381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 292
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20044435050df0230800000000000000
+      internalID: 3607330869959999490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_13
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 292
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15352173782d6dc0800000000000000
+      internalID: -3644212047188249315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_14
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 292
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee17644308ef79190800000000000000
+      internalID: -7955610390140390930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e3b687e09a91c80800000000000000
+      internalID: -8351458154366943713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 62
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8726defac5035aa0800000000000000
+      internalID: -6173584294777837685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 62
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2522020efdce3fd70800000000000000
+      internalID: 9075858120363745874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_18
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 62
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ac57c72a8beca40800000000000000
+      internalID: 5390448812021369434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recover_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 62
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60373413ab82fcff0800000000000000
+      internalID: -13747493703290106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
