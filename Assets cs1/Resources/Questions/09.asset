@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1152d5c17366edf43bc5ce1c88721fe3, type: 3}
+  m_Name: 09
+  m_EditorClassIdentifier: 
+  _info: Make your contact details visible to everyone
+  _answers:
+  - _info: Do
+    _isCorrect: 0
+  - _info: Don't
+    _isCorrect: 1
+  _useTimer: 1
+  _timer: 10
+  _answerType: 0
+  _addScore: 10
