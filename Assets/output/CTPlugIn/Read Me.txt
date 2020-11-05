@@ -1,0 +1,104 @@
+CrazyTalk Avatar Readme file
+
+
+About
+=====
+The CrazyTalk Unity Plug-in is designed for Unity apps and game designers; it helps developers easily incorporate animated lip-synced talking avatar into their apps, and gives the freedom to interact with them. You can create your own unique avatars as an in-game guidance, enhance your apps' user interactivity, or directly use them to make your existing 2D or 3D game characters talk.
+
+-Trial(Free) version: User only use free demo project material in assert folder and bulid Web Player, PC, MAC platform.
+
+-Paid version: User can import CrazyTalk Interactive Assets (support CrazyTalk Interactive Plug-in output files: .uctProject, .uctModel, .uctScript, .uctIdle) and bulid Web Player, PC, MAC, iOS, Android platform.
+
+CONTENTS
+==========
+- Structure of Assets
+- API Document
+- System Requirements
+- Known Issues
+- Additional Technical Support Information
+
+Structure of Assets
+===================
+- Assets >> CTPlugIn >> Editor
+- Assets >> CTPlugIn >> Standard Assets
+- Assets >> Resources >> CTResources
+
+Using Demo Project
+===================
+To use the demo project for observing the main features of the CrazyTalk Unity Plug-in, you need to download the demo project in advance.
+- Click the "Download Demo Package" button at the bottom right of the first tab (User Login) of the CrazyTalk Unity Plug-in panel after you login as a paid or trial user.
+- Choose a folder for storing the downloaded package, "DemoSet.unitypackage".
+- Import the package by double-clicking on the package file.
+- The contents of the package will be imported into the "Assets" folder in Unity.
+
+*The data structure of the contents in the package:
+
+- Assets >> CTPlugIn >> Demo Project: In this folder, you are able to modify the assets if you want to, including the Java Script file named CTSample (which is the code utilized by the Demo Project).
+
+- Assets >> CTPlugIn >> Free Demo Material: In this folder, you will find 6 models, 5 motions, 4 projects and 5 scripts (voice + motion). You are free to apply them into your custom projects.
+
+- Assets >> Resources >> DemoProjectResource: The entire resources the demo project utilizes are kept inside of this folder.  
+
+API Document
+============
+http://www.reallusion.com/crazytalk/Unity-Avatar-API-v1.00.pdf
+
+System Requirements
+====================
+Windows Requirements
+
+Minimum System Requirements:
+- Intel Pentium D CPU 3.40GHz (2 CPUs)
+- 2GB free hard disk space
+- Display Resolution: 1024 x 720
+- Color Depth: True Color (32-bit)
+- Graphics Card: Open GL v1.3-capable
+- Video Memory: 512MB RAM
+
+Recommended System Requirements:
+(CrazyTalk7 will have better performance in below recommended environment.)
+- Dual core CPU or higher
+- 8GB RAM or higher recommended
+- 2GB free hard disk space or higher recommended
+- Display Resolution: 1024 x 720 or higher
+- Graphics Card: Nvidia GeForce 7 Series or higher /ATI HD 3000 Series or higher
+- Video Memory: 512MB RAM or higher recommended
+
+Additional Requirements:
+- DirectX 9 and WMEncoder 9 are required for WMV exporting
+- Internet connection required for online activation
+
+Operating System:
+- Windows 8 /Windows 7 /Windows XP (With Service Pack 2 or later)
+- Support for 32-bit and 64-bit operating system
+
+Mac Requirements
+- 4GB of RAM (8GB recommended)
+- OpenGL-capable graphics card or Intel HD Graphics 3000 or later
+- 256MB of VRAM (512MB of VRAM recommended)
+- Display with 1280-by-768 resolution or higher
+- 2.4GB of disk space
+- OS X v10.6.8 or OS X v10.7.5 or OS X v10.8.2 or later
+- For JPEG, ProRes codecs need OSX 10.7.5 above
+
+* CrazyTalk Unity Plug-in is required to work with Unity 4 or above. To create custom avatar and animation for Unity, CrazyTalk7 and CrazyTalk Interactive Plug-in are required.
+
+* Internet connection required for activating the trial version.
+
+* After the installation is complete, please register for free to activate the software and download the resource pack to reach the embedded content.
+
+* Reallusion will never rent, share or sell your personal information to any 3rd party.
+  (http://www.reallusion.com/About/privacy.aspx)
+
+* To add your own assets into Unity game, you will need the full version of Unity Plug-in.
+  (http://www.reallusion.com/store/purchase_ct.aspx)
+
+Known Issues
+============
+- Please check on-line FAQ for updates 
+
+Additional Technical Support Information
+========================================
+If you need further information or have any questions regarding the installation or use of CrazyTalk, please first visit the support section of our web site http://www.reallusion.com/support.asp
+
+Please reference your reallusion account, product and system configuration when contacting us for technical support.
