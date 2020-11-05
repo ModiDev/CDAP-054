@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GarbageDisposal/Scenes/GarbageDisposal2Cat.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC/HomePage_EC.unity
+    guid: 0279cb0c79f145d4791e9d4a5d31ddda
+  - enabled: 1
+    path: Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC/LevelsPage_EC.unity
+    guid: 2f6f45edde7356448b3d2dc50be3ff7f
+  - enabled: 1
+    path: Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC/Level1_House_EC.unity
+    guid: d4604ce2cd80dfa4bac89cbef7659d3e
+  - enabled: 1
+    path: Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC/Level2_Town_EC.unity
+    guid: d014c91f39c450a409169515b3b536bb
+  - enabled: 1
+    path: Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC/Level3_School_EC.unity
+    guid: 74c26e9037e646e47abdcc310c6b68a6
+  - enabled: 1
+    path: Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC/MiniGame_EC.unity
+    guid: 79f8bac4c75da6e43bd8288f7d84106c
+  - enabled: 1
+    path: Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA/HomePage_EA.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA/Category_EA.unity
+    guid: fc4d02336e37ea04daf6dbb8caae1711
+  - enabled: 1
+    path: Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA/Quiz1_EA.unity
+    guid: eb018b13e9a6ae04eb7ac6c0f9d75221
+  - enabled: 1
+    path: Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA/Quiz2_EA.unity
+    guid: 2d942754a4281204ca8a3b5ba38cae51
+  - enabled: 1
+    path: Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA/Quiz3_EA.unity
+    guid: 1ced43a337a942a45ab9cc2aa6101653
+  m_configObjects: {}
