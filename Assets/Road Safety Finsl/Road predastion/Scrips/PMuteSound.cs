@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Mute Sound Scenes...
 public class PMuteSound : MonoBehaviour
 {
     private bool isMuted;
@@ -11,6 +12,7 @@ public class PMuteSound : MonoBehaviour
         isMuted = false;
     }
 
+    //Call Method using Mute Button
     public void MutePressed()
     {
         isMuted = !isMuted;
