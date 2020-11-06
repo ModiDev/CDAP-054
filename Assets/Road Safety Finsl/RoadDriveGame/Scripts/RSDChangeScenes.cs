@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+//Change Scenes
 public class RSDChangeScenes : MonoBehaviour
 {
     public string SceneName;
@@ -24,6 +25,6 @@ public class RSDChangeScenes : MonoBehaviour
 
     public void ChangeLevel(string SceneName)
     {
-        SceneManager.LoadScene(SceneName);
+        SceneManager.LoadScene(SceneName); //Using Scene Name
     }
 }
