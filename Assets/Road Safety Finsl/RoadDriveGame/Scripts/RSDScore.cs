@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+
 public class RSDScore : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        PlayerPrefs.SetInt("Score", 0);
+        PlayerPrefs.SetInt("Score", 0); //Display Score..
     }
 
     // Update is called once per frame
