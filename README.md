@@ -1,4 +1,6 @@
-<h3><b>Road Safety Awareness - 2D Quiz Game and 3D Action Game<b></h3>
+<h1><b>Road Safety Awareness - 2D Quiz Game and 3D Action Game<b></h1>
+<h2>Branch Name: Ruwin /IT17162142 - Keenavinna K.A.R.T.</h2>
+<h3>Technology: 2D, 3D, C#</h3>	
 
 PC requires the installation of software and components including:<br>
 -Unity Game Engine (Version 2019.3.8f1)<br>
@@ -24,7 +26,7 @@ PC requires the installation of software and components including:<br>
 
 <h3>Installation:</h3>
 <p>After installed this software’s, need to run project. 
-  Then displayed menu panel. It has two buttons. ("Road Pedestrian" and "Road Drivers")</p>
+  Then displayed menu panel. <br>It has two buttons. ("Road Pedestrian" and "Road Drivers")</p>
     Click "Road Pedestrian" button 
     - Click "Play" Button > Display 2 Levels
 	    <p>In the 1st level player need to select the correct pedestrian road symbols. Marks are added when selecting a correct symbol and while marks are deducted when selecting a wrong symbol. Level2- a player is given destination by following a prediction road rules. Time is allocated for that. </p>
