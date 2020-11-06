@@ -7,9 +7,9 @@ public class RSP_MainMenu : MonoBehaviour
 {
     public void playGame()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2); //Load Scenes..
     }
-    public void QuitGame()
+    public void QuitGame() //Using Quit Button
     {
         Debug.Log("Quit!");
         Application.Quit();
