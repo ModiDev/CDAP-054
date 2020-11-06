@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Open Panels Using Button
 public class RSDPanelOpen : MonoBehaviour
 {
     public GameObject Panel;
