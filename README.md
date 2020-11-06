@@ -1,7 +1,7 @@
 # CDAP-054
 
 # Health Awareness based on Dengue Fever (AwareME)</h2>
-## Branch Name: Moditha | IT17160308 -DASSANAYAKE D.K.M.P.M.M
+## Branch Name: Moditha3DGame | IT17160308 -DASSANAYAKE D.K.M.P.M.M
 ## Technology: 2D, 3D, C#
 ## Platform: Unity (Version: 2019.3.8f1), Visual Studio 2019 
 ## 3D Action game-Adults 
@@ -33,7 +33,7 @@ The 3d game game has three levels and levels are categorized into three parts,pl
 **How to run:** 
 Go to the Assets\Scenes and run "Level1.unity" scene
 
-Inside the 3D game (```Extra files needed to run 2D puzzle game```):
+Inside the 3D game (```Extra files needed to run 3D puzzle game```):
 ```
 Scripts - All the scripts used for the game. Using C# language. Open scripts using Visual Studio 2019
 Scenes - All the scenes used for the game
