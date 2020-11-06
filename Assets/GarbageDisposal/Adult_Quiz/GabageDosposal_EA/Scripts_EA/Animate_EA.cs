@@ -5,14 +5,8 @@ using UnityEngine.UI;
 
 public class Animate_EA : MonoBehaviour
 {
-    public GameObject right, wrong;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-       
-    }
-
+    public GameObject right, wrong;  //
+    
     public void aminate(bool anime)
     {
         if (anime)
@@ -29,11 +23,6 @@ public class Animate_EA : MonoBehaviour
         }
         gameObject.SetActive(false);
         transform.parent.GetChild(gameObject.transform.GetSiblingIndex() + 1).gameObject.SetActive(true);
-    }
-    // Update is called once per frame
-    void Update()
-    {
-          
     }
 }
 
