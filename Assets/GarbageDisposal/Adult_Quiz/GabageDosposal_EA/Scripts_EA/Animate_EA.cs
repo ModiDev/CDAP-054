@@ -7,7 +7,7 @@ public class Animate_EA : MonoBehaviour   //popup animation by clicking wrong or
 {
     public GameObject right, wrong;  
     
-    public void aminate(bool anime)
+    public void aminate(bool anime) //when clicking right answer
     {
         if (anime)
         {
@@ -16,7 +16,7 @@ public class Animate_EA : MonoBehaviour   //popup animation by clicking wrong or
             int score = PlayerPrefs.GetInt("score") + 10;
             PlayerPrefs.SetInt("score", score);
         }
-        else
+        else                                //when clicking wrong answer
         {
             wrong.SetActive(false);
             wrong.SetActive(true);
