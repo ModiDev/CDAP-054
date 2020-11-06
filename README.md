@@ -7,21 +7,21 @@ An introductory video made with 3D will be displayed before the games are starte
 The scenes desinged in unity with the scripts consisting for each scene is below:
 
 **start level-1(quiz)**
-(https://github.com/modi1995/CDAP-054/tree/Sandali/Assets%20cs1/Scripts)
+(CDAP-054/Assets cs1/Scripts/)
 ```
 newquiz_sm - when the correct answer is clicked feedback=correct.
 menustart - to change scenes
 ```
 
 **start level-2(quiz)**
-(https://github.com/modi1995/CDAP-054/tree/Sandali/Assets%20cs1/Scripts)
+(CDAP-054/Assets cs1/Scripts/)
 ```
 newquiz2_sm - when the correct answer is clicked feedback=correct.
 menustart - to change scenes
 ```
 
 **2(jigsaw puzzle)**
-(https://github.com/modi1995/CDAP-054/tree/Sandali/Assets%20cs1/Scripts)
+(CDAP-054/Assets cs1/Scripts/)
 ```
 feedback_sm - once u drag all the images to the correct position feedback is correct.
 drag_sm - lets you drag the image to the correct box and scale it to the size of the box.
@@ -32,14 +32,14 @@ control_sm - next and the previous button functions
 ```
 
 **2nd scene(3d scrambled word puzzle)**
-(https://github.com/modi1995/CDAP-054/tree/Sandali/Assets%20cs2/scripts-sm)
+(CDAP-054/Assets cs2/scripts-sm/)
 ```
 charobject
 wordscramble - results,time limit, feedback, question manager is displayed
 ```
 
 **1st scene(3d scene)**
-(https://github.com/modi1995/CDAP-054/tree/Sandali/Assets%20cs2/Assets-sm/Scenes/scripts3d_sm)
+(CDAP-054/Assets cs2/Assets-sm/Scenes/scripts3d_sm/)
 ```
 dialscript - displays the dialouges
 movesceneon keypress - Trigger action
@@ -47,7 +47,7 @@ playermovement - animation
 ```
 
 **5th scene(3d scene)**
-(https://github.com/modi1995/CDAP-054/tree/Sandali/Assets%20cs2/Assets-sm/Scenes/scripts3d_sm)
+(CDAP-054/Assets cs2/Assets-sm/Scenes/scripts3d_sm/)
 ```
 mouselook - to look around the 3d scenes
 playermovement - animation 
@@ -55,7 +55,7 @@ dialscript5 - displays the dialouges
 ```
 
 **3rd scene(3d scene)**
-(https://github.com/modi1995/CDAP-054/tree/Sandali/Assets%20cs2/Assets-sm/Scenes/scripts3d_sm)
+(CDAP-054/Assets cs2/Assets-sm/Scenes/scripts3d_sm/)
 ```
 dialscript - displays the dialouges
 playermovement - animation
@@ -63,7 +63,7 @@ menustart - change the scenes
 ```
 
 **samplescene(quiz)**
-(https://github.com/modi1995/CDAP-054/tree/Sandali/Assets%20cs1/Scripts)
+(CDAP-054/Assets cs1/Scripts/)
 ```
 answerdata - reset,switching states, update UI
 audiomanager - controlling the sound of the game
