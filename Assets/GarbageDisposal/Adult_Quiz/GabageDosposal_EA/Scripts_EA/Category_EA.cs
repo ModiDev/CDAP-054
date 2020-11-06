@@ -5,29 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class Category_EA : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
-    public void Quiz1()
+    public void Quiz1() //link to level 1
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Quiz1_EA");
     }
 
-    public void Quiz2()
+    public void Quiz2() //link to level 2
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Quiz2_EA");
     }
 
-    public void Quiz3()
+    public void Quiz3() //link to level 3
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Quiz3_EA");
     }
