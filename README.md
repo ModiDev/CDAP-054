@@ -39,9 +39,9 @@ Other folders - Images, Background music, Sounds, Animations, Voice clips
 This game has three levels about the garbage categories and a mini-game about garbage disposal. The user has to collect the correct object to the given question. 
 
 **How to run:**
-```Go to Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC and run "HomePage_EC.unity " scene```
+Go to ```Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC``` and run ```HomePage_EC.unity``` scene
 
-Inside the 3d game (Assets/GarbageDisposal/Child_Action/GabageDosposal_EC)
+Inside the 3d game ``Assets/GarbageDisposal/Child_Action/GabageDosposal_EC``
 ```
 Scripts_EC - All the scripts used for the game. Using C# language. Open scripts using Visual Studio 2019
 Scenes_EC - All the scenes used for the game
