@@ -15,7 +15,7 @@ public class RSP_Timer : MonoBehaviour
     void Start()
     {
         timesUpText.SetActive(false);
-        timerBar = GetComponent<Image>();
+        timerBar = GetComponent<Image>(); //Using Timer Bar 
         timeLeft = maxTime;
     }
 
@@ -25,7 +25,7 @@ public class RSP_Timer : MonoBehaviour
         if(timeLeft > 0)
         {
             timeLeft -= Time.deltaTime;
-            timerBar.fillAmount = timeLeft / maxTime;
+            timerBar.fillAmount = timeLeft / maxTime; //CountDown
         }else
         {
             timesUpText.SetActive(true);
