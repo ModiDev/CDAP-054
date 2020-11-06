@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class MuteManager_EA : MonoBehaviour
 {
-    // Start is called before the first frame update
-
+    // mute background music and system sound
     private bool isMuted;
        
         void Start()
