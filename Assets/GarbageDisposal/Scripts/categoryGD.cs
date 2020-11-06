@@ -5,23 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class categoryGD : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    //Home page - garbage disposal 
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    public void gameQuiz()
+    public void gameQuiz() //link to the 2d adults home page 
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("HomePage_EA");
     }
 
-    public void gameAction()
+    public void gameAction() //link to the 3d children home page
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("HomePage_EC");
     }
