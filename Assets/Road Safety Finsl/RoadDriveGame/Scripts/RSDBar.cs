@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using DentedPixel;
 
+//Object animation method
 public class RSDBar : MonoBehaviour
 {
     public GameObject bar;
@@ -10,7 +11,7 @@ public class RSDBar : MonoBehaviour
 
     void Start()
     {
-        AnimateBar();
+        AnimateBar(); //Object Animation
     }
 
     void Update()
