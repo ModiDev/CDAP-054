@@ -1,6 +1,6 @@
 # CDAP-054
 
-# Environmental awareness through the game-based learning (AwareME)</h2>
+# Environmental Awareness through the Game-based Learning (AwareME)</h2>
 ## Branch Name: Lisara | IT17701174 -T.L.C Jayasiri
 ## Technology: 2D, 3D, C#
 ## Platform: Unity (Version: 2019.3.8f1), Visual Studio 2019 
@@ -32,7 +32,7 @@ This game has three levels. The user has to select the correct answer to given q
 **How to run:** 
 Go to ```Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA``` and run ```HomePage_EA.unity``` scene
 
-Inside the 2d game (```Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA```):
+Inside the 2D game (```Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA```):
 ```
 Scripts_EA - All the scripts used for the game. Using C# language. Open scripts using Visual Studio 2019
 Scenes_EC - All the scenes used for the game
@@ -46,7 +46,7 @@ This game has three levels about the garbage categories and a mini-game about ga
 **How to run:**
 Go to ```Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC``` and run ```HomePage_EC.unity``` scene
 
-Inside the 3d game (```Assets/GarbageDisposal/Child_Action/GabageDosposal_EC```):
+Inside the 3D game (```Assets/GarbageDisposal/Child_Action/GabageDosposal_EC```):
 ```
 Scripts_EC - All the scripts used for the game. Using C# language. Open scripts using Visual Studio 2019
 Scenes_EC - All the scenes used for the game
