@@ -5,17 +5,17 @@ using UnityEngine.SceneManagement;
 
 public class BackToCat_EA : MonoBehaviour
 {    
-    public void BackButton() //Go to categories (levels page)
+    public void BackButton() //link to category page (levels page)
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Category_EA");
     }
 
-    public void main()
+    public void main() //link to home page
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("HomePage_EA");
     }
 
-    public void exit()
+    public void exit() //link to main home page
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("GarbageDisposal2Cat");
     }
