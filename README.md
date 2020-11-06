@@ -92,6 +92,11 @@ menustart - change the scenes
 ```
 
 
-
+**How to run the game:**
+```
+- Step 1: Create a Unity project using a 3D template - use Version: 2019.3.8f1 
+- Step 2: Put all these files in the "Assets" folder 
+- Step 3: Go to the Assets cs2\Assets_sm\scenes\scenes and run "1st scene" 
+```
 
 
