@@ -11,7 +11,7 @@ public class MuteSound : MonoBehaviour
         isMuted = false;
     }
 
-    public void MutePressed()
+    public void MutePressed() //Sound Muted
     {
         isMuted = !isMuted;
         AudioListener.pause = isMuted;
