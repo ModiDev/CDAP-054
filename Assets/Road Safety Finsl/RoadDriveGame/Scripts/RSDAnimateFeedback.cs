@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Game Manager
 public class RSDAnimateFeedback : MonoBehaviour
 {
     public GameObject right, wrong;
@@ -17,7 +18,7 @@ public class RSDAnimateFeedback : MonoBehaviour
         {
             right.SetActive(false);
             right.SetActive(true);
-            int score = PlayerPrefs.GetInt("Score") + 50;
+            int score = PlayerPrefs.GetInt("Score") + 50; //Calculate Score (Select Correct Object)
             PlayerPrefs.SetInt("Score", score);
 
             gameObject.SetActive(false);
@@ -27,7 +28,8 @@ public class RSDAnimateFeedback : MonoBehaviour
         {
             wrong.SetActive(false);
             wrong.SetActive(true);
-            int score = PlayerPrefs.GetInt("Score") - 20;
+            int score = PlayerPrefs.GetInt("Score") - 20; //Calculate Score (Select Wrong Object)
+            PlayerPrefs.SetInt("Score", score);
             PlayerPrefs.SetInt("Score", score);
         }
        
