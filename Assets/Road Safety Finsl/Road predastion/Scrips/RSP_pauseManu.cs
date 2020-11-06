@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Create Pause Manu
 public class RSP_pauseManu : MonoBehaviour
 {
     public GameObject Pausemenu, PauseButton; 
@@ -13,7 +14,7 @@ public class RSP_pauseManu : MonoBehaviour
         Time.timeScale = 0;
     }
 
-    public void Resume()
+    public void Resume() //Using Resume Button
     {
         Pausemenu.SetActive(false);
         PauseButton.SetActive(true);
