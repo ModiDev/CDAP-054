@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Animate_EA : MonoBehaviour
+public class Animate_EA : MonoBehaviour   //popup animation by clicking wrong or correct answer
 {
-    public GameObject right, wrong;  //
+    public GameObject right, wrong;  
     
     public void aminate(bool anime)
     {
