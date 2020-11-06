@@ -1,12 +1,12 @@
 # CDAP-054
 
-<h2><center>Environmental awareness through the game-based learning (AwareME)<center/></h2>
+<h2>Environmental awareness through the game-based learning (AwareME)</h2>
   
-<h3><center>Branch Name: Lisara | IT17701174 -T.L.C Jayasiri<h3/><center/>
+<h3>Branch Name: Lisara | IT17701174 -T.L.C Jayasiri<h3/>
   
-<h4><center>Technology: 2D, 3D, C# <center/><h4/>
+<h4>Technology: 2D, 3D, C# <h4/>
   
-<h4><center>Platform: Unity (Version: 2019.3.8f1), Visual Studio 2019<center/><h4/>
+<h4>Platform: Unity (Version: 2019.3.8f1), Visual Studio 2019<h4/>
 
 Environmental awareness is one of the main components of the AwareMe gaming platform 
 
