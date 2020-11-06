@@ -26,18 +26,18 @@ There are two games inside the main garbage disposal game.
 2D Quiz game for adults 
 3D Action game for children
 
-2D Quiz game: 
+##2D Quiz game: 
 This game has three levels. The user has to select the correct answer to given questions. three levels focus on -
-1st level: decomposable methods
-2nd level: disposal methods
-3rd level: Environmental pollution
+*1st level: decomposable methods
+*2nd level: disposal methods
+*3rd level: Environmental pollution
 How to run: Go to Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA and run "HomePage_EA.unity" scene
 
 inside the 2d game (Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA)
 ```
 Scripts_EA - All the scripts used for the game. Using C# language. Open scripts using Visual Studio 2019
 Scenes_EC - All the scenes used for the game
-Other folders - Images, Background music, Sounds, Animations, voice clips
+Other folders - Images, Background music, Sounds, Animations, Voice clips
 ```
 3D Action game:
 This game has three levels about the garbage categories and a mini-game about garbage disposal. the user has to collect the correct object to the given question. 
