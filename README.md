@@ -23,7 +23,7 @@ Environmental awareness is one of the main components of the AwareMe gaming plat
 2. *3D Action game for children*
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 2D Quiz game: 
+## 2D Quiz game 
 This game has three levels. The user has to select the correct answer to given questions. Three levels focus on -
 - 1st Level: decomposable methods
 - 2nd Level: disposal methods
@@ -40,7 +40,7 @@ Other folders - Images, Background music, Sounds, Animations, Voice clips
 ```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 3D Action game:
+## 3D Action game
 This game consist with three levels about the garbage categories and a mini-game about garbage disposal. The user has to select the correct object to the given question. 
 
 **How to run:**
