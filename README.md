@@ -8,25 +8,21 @@
   
 <h4>Platform: Unity (Version: 2019.3.8f1), Visual Studio 2019<h4/>
 
-Environmental awareness is one of the main components of the AwareMe gaming platform 
-
-Based on environmental awareness, the game mainly focuses on educating the public about proper garbage disposal through game-based learning
-
-In this game, people educate about three areas of garbage disposal
-##Environmental pollution caused by garbage
-#Garbage disposal properly
-#Garbage category
+Environmental awareness is one of the main components of the AwareMe gaming platform. Based on environmental awareness, the game mainly focuses on educating the public about proper garbage disposal through game-based learning. In this game, people educate about three areas of garbage disposal
+Environmental pollution caused by garbage
+Garbage disposal properly
+Garbage category
 
 How to run the main garbage disposal game: 
 Step 1: Create a Unity project using a 3D template - use Version: 2019.3.8f1 
 Step 2: Put all these files in the "Assets" folder 
 Step 3: Go to the Assets/GarbageDisposal/Scenes and run "GarbageDisposal2Cat.unity" scene
 
-There are two games inside the main garbage disposal game.
+**There are two games inside the main garbage disposal gam**
 2D Quiz game for adults 
 3D Action game for children
 
-##2D Quiz game: 
+## 2D Quiz game: 
 This game has three levels. The user has to select the correct answer to given questions. three levels focus on -
 *1st level: decomposable methods
 *2nd level: disposal methods
@@ -39,7 +35,7 @@ Scripts_EA - All the scripts used for the game. Using C# language. Open scripts 
 Scenes_EC - All the scenes used for the game
 Other folders - Images, Background music, Sounds, Animations, Voice clips
 ```
-3D Action game:
+## 3D Action game:
 This game has three levels about the garbage categories and a mini-game about garbage disposal. the user has to collect the correct object to the given question. 
 How to run: Go to Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC and run "HomePage_EC.unity " scene
 
