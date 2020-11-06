@@ -5,9 +5,9 @@
 ## Technology: 2D, 3D, C#
 ## Platform: Unity (Version: 2019.3.8f1), Visual Studio 2019 
 
-Environmental awareness is one of the main components of the AwareMe gaming platform. Based on environmental awareness, the game mainly focuses on educating the public about proper garbage disposal through game-based learning. In this game, people educate about three areas of garbage disposal
+Environmental awareness is one of the main components of the AwareMe gaming platform. Based on environmental awareness, the game mainly focuses on educating the public about proper garbage disposal through game-based learning. In this game, people educate about three areas of garbage disposal as follows.
 - *Environmental pollution caused by garbage*
-- *Garbage disposal properly*
+- *Proper disposal of Garbage *
 - *Garbage category*
 
 **How to run the main garbage disposal game:**
@@ -41,7 +41,7 @@ Other folders - Images, Background music, Sounds, Animations, Voice clips
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 3D Action game:
-This game has three levels about the garbage categories and a mini-game about garbage disposal. The user has to collect the correct object to the given question. 
+This game consist with three levels about the garbage categories and a mini-game about garbage disposal. The user has to select the correct object to the given question. 
 
 **How to run:**
 Go to ```Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC``` and run ```HomePage_EC.unity``` scene
