@@ -6,9 +6,9 @@
 ## Platform: Unity (Version: 2019.3.8f1), Visual Studio 2019 
 
 Environmental awareness is one of the main components of the AwareMe gaming platform. Based on environmental awareness, the game mainly focuses on educating the public about proper garbage disposal through game-based learning. In this game, people educate about three areas of garbage disposal
-- Environmental pollution caused by garbage
-- Garbage disposal properly
-- Garbage category
+- *Environmental pollution caused by garbage*
+- *Garbage disposal properly*
+- *Garbage category*
 
 **How to run the main garbage disposal game:**
 ```
@@ -17,17 +17,19 @@ Environmental awareness is one of the main components of the AwareMe gaming plat
 - Step 3: Go to the Assets/GarbageDisposal/Scenes and run "GarbageDisposal2Cat.unity" scene
 ```
 **There are two games inside the main garbage disposal game**
-- 2D Quiz game for adults 
-- 3D Action game for children
 
+1. *2D Quiz game for adults*
+2. *3D Action game for children*
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2D Quiz game: 
 This game has three levels. The user has to select the correct answer to given questions. Three levels focus on -
-- 1st level: decomposable methods
-- 2nd level: disposal methods
-- 3rd level: Environmental pollution
+- 1st Level: decomposable methods
+- 2nd Level: disposal methods
+- 3rd Level: Environmental pollution
 
 **How to run:** 
-```Go to Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA and run "HomePage_EA.unity" scene```
+Go to ```Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA``` and run ```HomePage_EA.unity``` scene
 
 Inside the 2d game (Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA)
 ```
@@ -35,6 +37,7 @@ Scripts_EA - All the scripts used for the game. Using C# language. Open scripts 
 Scenes_EC - All the scenes used for the game
 Other folders - Images, Background music, Sounds, Animations, Voice clips
 ```
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 3D Action game:
 This game has three levels about the garbage categories and a mini-game about garbage disposal. The user has to collect the correct object to the given question. 
