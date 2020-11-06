@@ -15,7 +15,7 @@ Environmental awareness is one of the main components of the AwareMe gaming plat
 - Step 1: Create a Unity project using a 3D template - use Version: 2019.3.8f1 
 - Step 2: Put all these files in the "Assets" folder 
 - Step 3: Go to the Assets/GarbageDisposal/Scenes and run "GarbageDisposal2Cat.unity" scene
-```\
+```
 
 **There are two games inside the main garbage disposal game**
 
