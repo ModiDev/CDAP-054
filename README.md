@@ -4,8 +4,9 @@
 ## Branch Name: Moditha | IT17160308 -DASSANAYAKE D.K.M.P.M.M
 ## Technology: 2D, 3D, C#
 ## Platform: Unity (Version: 2019.3.8f1), Visual Studio 2019 
+## 2D Puzzle Game-Kids
 
-**Description
+**Description**
 
 The first module of “AwareME” platform focuses on health awareness, specifically on dengue threat. We have identified three main stages for dengue awareness: (1) awareness on preventing dengue fever, (2) awareness on responding when suffering from dengue fever and (3) awareness on speedy recovering from dengue fever . We have developed a puzzle game to improve thinking ability and recalling ability and, a 3D Action game to improve the decision-making ability for above mentioned awareness stages.
 
