@@ -6,6 +6,17 @@
 Cybersecurity awareness is an area where public awareness is highly recommended. When considering cyber security awareness social media which plays a leading role was considered here. for the purpose of social media awareness user privacy violation consisting of weak password usage and oversharing information in facebook was considered.A game based solution was implemented as a solution.The implemented solution is as follows:
 
 An introductory video made with 3D will be displayed before the games are started.Three games as suggested by the survey participants will be implemented using 2D technology. Two quizzes and a Jigsaw puzzle is included there.The players can use the help option to obtain hints regarding the game.Once the three games are completed two games(scrambled word puzzle/quiz) where the score is calculated will be present. There the player is given a time limit to complete the tasks. These games were made using 2D and 3D technologies.
+
+## 2D games
+quiz(weak password usage)-start level-1
+quiz(oversharing information)-start level-2
+jigsaw puzzle -2
+quiz(miscellaneous)-samplescene
+
+## 3D games
+narrative video - 1st scene,3rd scene,5th scene
+scarmbled word puzzle- 2nd scene
+
 The scenes desinged in unity with the scripts consisting for each scene is below:
 
 **start level-1(quiz)**
