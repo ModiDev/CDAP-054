@@ -4,21 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class BackToCat_EA : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    //Go to categories
-    public void BackButton()
+{    
+    public void BackButton() //Go to categories (levels page)
     {
         UnityEngine.SceneManagement.SceneManager.LoadScene("Category_EA");
     }
