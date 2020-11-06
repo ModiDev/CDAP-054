@@ -7,7 +7,7 @@
 
 Environmental awareness is one of the main components of the AwareMe gaming platform. Based on environmental awareness, the game mainly focuses on educating the public about proper garbage disposal through game-based learning. In this game, people educate about three areas of garbage disposal as follows.
 - *Environmental pollution caused by garbage*
-- *Proper disposal of Garbage *
+- *Proper disposal of Garbage*
 - *Garbage category*
 
 **How to run the main garbage disposal game:**
