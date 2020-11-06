@@ -1,6 +1,6 @@
 # CDAP-054
 
-# Environmental Awareness through the Game-based Learning (AwareME)</h2>
+# Environmental Awareness through the Game-based Learning (AwareME)
 ## Branch Name: Lisara | IT17701174 -T.L.C Jayasiri
 ## Technology: 2D, 3D, C#
 ## Platform: Unity (Version: 2019.3.8f1), Visual Studio 2019 
