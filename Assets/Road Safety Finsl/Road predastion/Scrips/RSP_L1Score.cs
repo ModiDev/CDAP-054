@@ -4,6 +4,7 @@
 using UnityEngine;
 using UnityEngine.UI; 
 
+//Display Score
 public class RSP_L1Score : MonoBehaviour
 {
     public GameObject scoreText;
@@ -11,6 +12,6 @@ public class RSP_L1Score : MonoBehaviour
     
     void Update()
     {
-        scoreText.GetComponent<Text>().text = "SCORE:" + theScore;
+        scoreText.GetComponent<Text>().text = "SCORE:" + theScore; //Display score in panel
     }
 }
