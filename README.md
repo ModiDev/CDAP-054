@@ -15,7 +15,8 @@ Environmental awareness is one of the main components of the AwareMe gaming plat
 - Step 1: Create a Unity project using a 3D template - use Version: 2019.3.8f1 
 - Step 2: Put all these files in the "Assets" folder 
 - Step 3: Go to the Assets/GarbageDisposal/Scenes and run "GarbageDisposal2Cat.unity" scene
-```
+```\
+
 **There are two games inside the main garbage disposal game**
 
 1. *2D Quiz game for adults*
@@ -31,7 +32,7 @@ This game has three levels. The user has to select the correct answer to given q
 **How to run:** 
 Go to ```Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA/Scenes_EA``` and run ```HomePage_EA.unity``` scene
 
-Inside the 2d game (Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA)
+Inside the 2d game (```Assets/GarbageDisposal/Adult_Quiz/GabageDosposal_EA```):
 ```
 Scripts_EA - All the scripts used for the game. Using C# language. Open scripts using Visual Studio 2019
 Scenes_EC - All the scenes used for the game
@@ -45,7 +46,7 @@ This game has three levels about the garbage categories and a mini-game about ga
 **How to run:**
 Go to ```Assets/GarbageDisposal/Child_Action/GabageDosposal_EC/Scenes_EC``` and run ```HomePage_EC.unity``` scene
 
-Inside the 3d game ``Assets/GarbageDisposal/Child_Action/GabageDosposal_EC``
+Inside the 3d game (```Assets/GarbageDisposal/Child_Action/GabageDosposal_EC```):
 ```
 Scripts_EC - All the scripts used for the game. Using C# language. Open scripts using Visual Studio 2019
 Scenes_EC - All the scenes used for the game
