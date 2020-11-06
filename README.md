@@ -8,61 +8,61 @@ The scenes desinged in unity with the scripts consisting for each scene is below
 
 >-start level-1(quiz)
 
-newquiz_sm(when the correct answer is clicked )
+newquiz_sm(when the correct answer is clicked ),
 menustart(to change scenes)
 
 
 >-start level-2(quiz)
 
-newquiz2_sm
+newquiz2_sm,
 menustart(to change scenes)
 
 
 >-2(jigsaw puzzle)
 
-feedback_sm
-drag_sm
-menustart
-reset_sm
+feedback_sm,
+drag_sm,
+menustart,
+reset_sm,
 control_sm
 
 
 >-2nd scene(3d scrambled word puzzle)
 
-charobject
+charobject,
 wordscramble
 
 
 >-1st scene(3d scene)
 
-dialscript
-movesceneon keypress
+dialscript,
+movesceneon keypress,
 playermovement
 
 
 >-5th scene(3d scene)
 
-mouselook
-playermovement
+mouselook,
+playermovement,
 dialscript5
 
 
 >-3rd scene(3d scene)
 
-dialscript
-playermovement
+dialscript,
+playermovement,
 menustart
 
 
 >-samplescene(quiz)
 
-answerdata
-audiomanager
-uimanager
-gameevents
-game mannager
-gameutility
-question
+answerdata,
+audiomanager,
+uimanager,
+gameevents,
+game mannager,
+gameutility,
+question,
 menustart
 
 
