@@ -40,6 +40,7 @@ wordscramble - results,time limit, feedback, question manager is displayed
 
 **1st scene(3d scene)**
 (CDAP-054/Assets cs2/Assets-sm/Scenes/scripts3d_sm/)
+(CDAP-054/Assets cs2/Assets-sm/)
 ```
 dialscript - displays the dialouges
 movesceneon keypress - Trigger action
@@ -48,6 +49,7 @@ playermovement - animation
 
 **5th scene(3d scene)**
 (CDAP-054/Assets cs2/Assets-sm/Scenes/scripts3d_sm/)
+(CDAP-054/Assets cs2/Assets-sm/)
 ```
 mouselook - to look around the 3d scenes
 playermovement - animation 
@@ -56,6 +58,7 @@ dialscript5 - displays the dialouges
 
 **3rd scene(3d scene)**
 (CDAP-054/Assets cs2/Assets-sm/Scenes/scripts3d_sm/)
+(CDAP-054/Assets cs2/Assets-sm/)
 ```
 dialscript - displays the dialouges
 playermovement - animation
