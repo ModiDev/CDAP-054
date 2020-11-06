@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Select the Objects
 public class RSP_Distription : MonoBehaviour
 {
     public GameObject UiObject;
@@ -21,6 +22,7 @@ public class RSP_Distription : MonoBehaviour
         }
     }
 
+    //Using on Trigger method, destroy Items.
     void OnTriggerExit(Collider other)
     {
         UiObject.SetActive(false);
