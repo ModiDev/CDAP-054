@@ -6,17 +6,17 @@ Github Link - https://github.com/modi1995/CDAP-054.git
 
 # Supervisor:Dr.(Mrs) Windhya Rankothge
 # Co-Supervisor:Ms.Narmadha Gamage
-- *| Member                   | IT Number  |
-- *| Dassanayake D.K.M.P.M.M    | IT17160308 |
-- *| Wijesinghe S.N             | IT17013642 |
-- *| Jayasiri T.L.C             | IT17701174 |
-- *| Keenawinna K.A.R.T         | IT17162142 |
+- | Member                   | IT Number  |
+- | Dassanayake D.K.M.P.M.M    | IT17160308 |
+- | Wijesinghe S.N             | IT17013642 |
+- | Jayasiri T.L.C             | IT17701174 |
+- | Keenawinna K.A.R.T         | IT17162142 |
 
-**Main Objective**
+-**Main Objective**
 The main four areas where many problems arise are environment, health, safety and cybersecurity.
 There is no one platform for these 4 categories. Therefore, there is a need to have one platform for these four categories.
 So, the main objective is to improve the Quality of people by making them aware on environment, safety, health, cyber security problems using game-based learning platform.
-**Main Research Questions**
+-**Main Research Questions**
 How do we prevent, response and recover from dengue? 
  How do we properly recycle the garbage?
  How do we use social media properly?
