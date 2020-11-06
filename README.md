@@ -21,7 +21,7 @@ Environmental awareness is one of the main components of the AwareMe gaming plat
 - 3D Action game for children
 
 ## 2D Quiz game: 
-This game has three levels. The user has to select the correct answer to given questions. three levels focus on -
+This game has three levels. The user has to select the correct answer to given questions. Three levels focus on -
 - 1st level: decomposable methods
 - 2nd level: disposal methods
 - 3rd level: Environmental pollution
