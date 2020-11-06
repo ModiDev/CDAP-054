@@ -11,7 +11,7 @@ The first module of “AwareME” platform focuses on health awareness, specific
 
 - *awareness on preventing dengue fever*
 - *awareness on responding when suffering from dengue fever*
-- *Garbage category*
+- *awareness on recovering dengue*
 
 **How to run the 2D kids dengue puzzle game:**
 ```
