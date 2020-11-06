@@ -15,9 +15,9 @@ An introductory video made with 3D will be displayed before the games are starte
 
 ## 3D games
 * narrative video - 1st scene,3rd scene,5th scene
-* scarmbled word puzzle- 2nd scene
+* scrambled word puzzle- 2nd scene
 
-**The scenes desinged in unity with the scripts consisting for each scene is below:**
+**The scenes desinged in unity with the scene names script names and path is below:**
 
 **start level-1(quiz)**
 (CDAP-054/Assets cs1/Scripts/)
